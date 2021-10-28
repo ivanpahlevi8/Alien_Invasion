@@ -3,10 +3,7 @@
 ## This Repository Contains Program that is Wrote In Python Using PYGAME library
 
 ###The Repositiory Contains Several Classes :
-Markup : *Alien Invasion
-          * Bullet
-            *Button
-Markup : * Bullet list
-              * Nested bullet
-                  * Sub-nested bullet etc
-          * Bullet list item 2
+###As you can see in this list :
+- Alien Invasion
+- Bullet
+- Button
